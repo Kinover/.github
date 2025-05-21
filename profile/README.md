@@ -18,8 +18,8 @@
 ## 👥 팀원 소개
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 박지윤 | 프론트엔드 개발 | [github.com/your-id](https://github.com/zzizi6?tab=repositories) |
-| 정주원 | 백엔드 개발 | [github.com/your-friend-id](https://github.com/ChungJuwon) |
+| 박지윤 | 프론트엔드 개발 | [github.com/zzizi6](https://github.com/zzizi6?tab=repositories) |
+| 정주원 | 백엔드 개발 | [github.com/ChungJuwon](https://github.com/ChungJuwon) |
 | 유은재 | 디자이너 | - |
 
 ## 📌 주요 리포지토리
