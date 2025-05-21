@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="30" alt="Kinover Logo"/>
-  <strong style="font-size: 50px; margin-left: 8px;">Kinover</strong>
+  <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="40" alt="Kinover Logo"/>
 </p>
+
+<h1 align="center">Kinover</h1>
 
 
 <p align="center">
