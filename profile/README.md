@@ -1,4 +1,5 @@
-# 👨‍👩‍👧 Kinover
+# <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="50"/> Kinover 
+
 
 **Kinover**는 가족만을 위한 비공개 SNS입니다.  
 일상을 공유하고, 감정을 표현하며, 추억을 기록하는 따뜻한 모바일 공간을 만들고 있어요.
