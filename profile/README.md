@@ -26,30 +26,9 @@
 
 
 ## 🛠️ 기술 스택
-
-### 🖥️ Frontend
-- <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-- <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
-- <img src="https://img.shields.io/badge/React%20Navigation-000000?style=flat&logo=reactrouter&logoColor=white" />
-- <img src="https://img.shields.io/badge/WebSocket-00BFFF?style=flat&logo=websocket&logoColor=white" />
-- <img src="https://img.shields.io/badge/Kakao%20Login-FEE500?style=flat&logo=kakaotalk&logoColor=000000" />
-- <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
-
-### 🖧 Backend
-- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-- <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-- <img src="https://img.shields.io/badge/WebSocket-00BFFF?style=flat&logo=websocket&logoColor=white" />
-- <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
-
-### ☁️ Infra
-- <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-- <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" />
-- <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-- <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-- <img src="https://img.shields.io/badge/Certbot-3A3A3A?style=flat&logo=letsencrypt&logoColor=yellow" />
+- **Frontend**: React Native, Redux Toolkit, React Navigation, WebSocket, Kakao Login, Axios
+- **Backend**: Spring Boot, Redis Pub/Sub, MariaDB, JWT, WebSocket, Swagger
+- **Infra**: AWS EC2 / RDS / S3, GitHub Actions, Nginx + HTTPS (Certbot)
 
 
 
