@@ -16,7 +16,6 @@
 말보다 마음이 먼저 닿는,  
 가족끼리 자연스럽게 연결되는 공간입니다. 😊
 
----
 
 ## ✨ 주요 기능
 - 실시간 채팅 및 접속 상태 확인
@@ -25,14 +24,12 @@
 - 이미지 기반 추억 기록 (갤러리)
 - AI 챗봇과의 가벼운 대화
 
----
 
 ## 🛠️ 기술 스택
 - **Frontend**: React Native, Redux Toolkit, React Navigation, WebSocket, Kakao Login, Axios
 - **Backend**: Spring Boot, Redis Pub/Sub, MariaDB, JWT, WebSocket, Swagger
 - **Infra**: AWS EC2 / RDS / S3, GitHub Actions, Nginx + HTTPS (Certbot)
 
----
 
 ## 👥 팀원 소개
 | 이름   | 역할              | GitHub                                           |
@@ -41,7 +38,6 @@
 | 정주원 | 백엔드 개발       | [ChungJuwon](https://github.com/ChungJuwon)     |
 | 유은재 | 디자이너          | -                                                |
 
----
 
 ## 📌 주요 리포지토리
 - 🔗 [kinover-frontend](https://github.com/Kinover/kinover_frontend) – React Native 기반 모바일 앱
