@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="30" alt="Kinover Logo"/>
-  <strong style="font-size: 28px; margin-left: 8px;">Kinover</strong>
+  <strong style="font-size: 50px; margin-left: 8px;">Kinover</strong>
 </p>
 
 
