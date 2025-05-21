@@ -22,8 +22,6 @@
 | 정주원 | 백엔드 개발 | [github.com/your-friend-id](https://github.com/ChungJuwon) |
 | 유은재 | 디자이너 | - |
 
-> 💡 팀원 GitHub ID는 실제 주소로 교체해줘!
-
 ## 📌 주요 리포지토리
 - 🔗 [kinover-frontend](https://github.com/Kinover/kinover-frontend) – React Native 기반 모바일 앱
 - 🔗 [kinover-backend](https://github.com/Kinover/kinover-backend) – Spring Boot 기반 REST API 서버
