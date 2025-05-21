@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="40" alt="Kinover Logo"/>
-  <span style="font-size: 50px; font-weight: bold; vertical-align: middle; margin-left: 8px;">Kinover</span>
+  <img src="https://avatars.githubusercontent.com/u/206313018?s=200&v=4" width="30" alt="Kinover Logo"/>
+  <strong style="font-size: 28px; margin-left: 8px;">Kinover</strong>
 </p>
+
 
 <p align="center">
   <b>Kinover</b>는 가족만을 위한 비공개 SNS입니다.  
