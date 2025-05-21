@@ -24,4 +24,4 @@
 
 ## 📌 주요 리포지토리
 - 🔗 [kinover-frontend](https://github.com/Kinover/kinover_frontend) – React Native 기반 모바일 앱
-- 🔗 [kinover-backend](https://github.com/Kinover/kinover backend) – Spring Boot 기반 REST API 서버
+- 🔗 [kinover-backend](https://github.com/Kinover/kinover_backend) – Spring Boot 기반 REST API 서버
