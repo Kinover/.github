@@ -71,7 +71,7 @@
 ## 👥 팀원 소개
 | 이름 | 역할 | GitHub |
 | :--- | :--- | :--- |
-| **박지윤** | **PM / 프론트엔드 리드** | [@zzizi6](https://github.com/zzizi6) |
+| 박지윤 | PM / 프론트엔드 개발 | [@zzizi6](https://github.com/zzizi6) |
 | 정주원 | PM / 백엔드 개발 | [@ChungJuwon](https://github.com/ChungJuwon) |
 | 유은재 | UX/UI 디자이너 | - |
 
