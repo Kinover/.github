@@ -27,10 +27,10 @@
 
 ### Frontend
 - **Framework**: React Native
-- **State Management**: Redux Toolkit, Redux Persist
+- **State Management**: Redux Toolkit, RTK Query, Redux Persist
 - **Navigation**: React Navigation
 - **Network**: Axios, Native WebSocket
-- **Storage/Security**: AsyncStorage, Keychain
+- **Storage/Security**: MMKV, Keychain
 - **Auth**: Kakao Login, Apple Login, JWT
 - **UI/Animation**: Reanimated, Lottie, Bottom Sheet (@gorhom/bottom-sheet)
 - **Media**: FastImage, Image Picker, Video
