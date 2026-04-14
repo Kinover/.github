@@ -21,6 +21,7 @@
 - **AI 인터랙션 도입**: OpenAI API 기반 대화 기능 연동
 - **배포 자동화**: GitHub Actions + AWS 환경 연동으로 배포/운영 효율화
 - **모바일 UX 개선**: 가이드 오버레이, 바텀시트 하단 safe-area, Android 실기기 터치/레이아웃 이슈 대응
+- **전화번호 인증**: Firebase Phone Auth + 서버 idToken 검증으로 본인 확인 및 중복 번호 처리
 
 <br/>
 
