@@ -13,7 +13,7 @@
 
 ## 🗓️ Project Period
 - 개발 2025.03 ~ 2026.04 (서비스 고도화 및 유지보수)
-- 4월 출시 예정
+- 4월 출시 예정 (심사중)
 
 ## 🚀 Key Improvements (Recent Updates)
 - **실시간 동기화 안정화**: WebSocket + Redis Pub/Sub 기반으로 채팅/접속 상태 동기화 개선
